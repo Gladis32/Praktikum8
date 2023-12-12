@@ -172,7 +172,7 @@ Methods:
 - ubah(self, nama: str, nilai_baru: int): Method untuk mengubah nilai mahasiswa berdasarkan nama.
 
 ## Flowchart
-Penjelasan
+
 
 1. Start:
 
